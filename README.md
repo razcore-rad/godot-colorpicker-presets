@@ -1,8 +1,8 @@
 # Godot ColorPicker Presets
 
-Reads a color presets hex file in the project directory, `res://presets.hex`. It adds the colors to the editor ColorPicker for quick access.
+Reads a color presets hex file in the addon local directory, called `presets.hex`. It adds the colors to the editor ColorPicker for quick access.
 
-This repository includes a `presets.hex` file as an example. It's the [Pear36 color palette](https://lospec.com/palette-list/pear36). You can directly download it from lospec.
+This repository includes a `presets.hex` file as an example. It's the [Pear36 color palette](https://lospec.com/palette-list/pear36) and you can directly download it from lospec.
 
 ![lospec download](./readme/lospec-download.png)
 
@@ -25,8 +25,9 @@ The addon:
 
 ## ✓ Install
 
-1. Copy `ColorPickerPresets` into `res://addons/`.
-1. Add a well formatted `res://presets.hex` file.
+1. Make a new folder at `res://addons/ColorPickerPresets/`.
+1. Copy the contents of this repository into `res://addons/ColorPickerPresets/`.
+1. Replace `res://addons/ColorPickerPresets/presets.hex` with your prefered version.
 1. Enable the addon from `Project > Project Settings... > Plugins`.
 1. Profit.
 
