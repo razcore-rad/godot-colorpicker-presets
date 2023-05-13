@@ -15,6 +15,7 @@ func _enter_tree() -> void:
 
 		var presets := PackedColorArray()
 		for hex in presets_raw:
+			hex = hex.strip_edges()
 			if hex.is_valid_html_color():
 				presets.push_back(Color(hex))
 
