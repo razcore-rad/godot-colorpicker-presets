@@ -1,6 +1,6 @@
 {
   "name": "@razcore-rad/colorpicker_presets",
-  "version": "0.0.1-alpha.5",
+  "version": "0.0.1-alpha.6",
   "description": "ColorPicker Presets",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,5 @@
   "bugs": {
 	"url": "https://github.com/razcore-rad/godot-colorpicker-presets/issues"
   },
-  "homepage": "https://github.com/razcore-rad/godot-colorpicker-presets#readme"
+  "homepage": "https://github.com/razcore-rad/godot-colorpicker-presets/tree/main/addons/colorpicker_presets#readme"
 }
