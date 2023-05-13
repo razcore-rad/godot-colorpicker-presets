@@ -8,7 +8,7 @@ Reads a color presets hex file in the addon local directory, called `presets.hex
 
 This repository includes a `presets.hex` file as an example. It's the [Pear36 color palette](https://lospec.com/palette-list/pear36) and you can directly download it from lospec.
 
-![lospec download](./readme/lospec-download.png)
+![lospec download](readme/colorpicker_presets/lospec-download.png)
 
 Follow the format of placing one hex color value per line:
 
@@ -35,10 +35,10 @@ The addon:
 1. Enable the addon from `Project > Project Settings... > Plugins`.
 1. Profit.
 
-![install project settings](./readme/install-project-settings.png)
+![install project settings](readme/colorpicker_presets/install-project-settings.png)
 
 ## Where do I find the presets?
 
 They'll be available in the editor _ColorPicker_.
 
-![ColorPicker presets](./readme/colorpicker-presets.png)
+![ColorPicker presets](readme/colorpicker_presets/colorpicker-presets.png)
