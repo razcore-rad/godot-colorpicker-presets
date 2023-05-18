@@ -1,0 +1,26 @@
+{
+  "name": "@razcore-rad/colorpicker_presets",
+  "version": "0.0.1-alpha.6",
+  "description": "ColorPicker Presets",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/razcore-rad/godot-colorpicker-presets.git"
+  },
+  "keywords": [
+	"godot",
+	"godotengine",
+	"colorpicker",
+	"presets",
+	"test"
+  ],
+  "author": "razcore-rad",
+  "license": "MIT",
+  "bugs": {
+	"url": "https://github.com/razcore-rad/godot-colorpicker-presets/issues"
+  },
+  "homepage": "https://github.com/razcore-rad/godot-colorpicker-presets/tree/main/addons/colorpicker_presets#readme"
+}
